@@ -1,0 +1,2777 @@
+Value counts for column 'class':
+class
+neg    1000
+pos    1000
+Name: count, dtype: int64
+
+Value counts for column 'aa_000':
+aa_000
+10       20
+14       20
+6        17
+8        17
+12       16
+         ..
+16412     1
+15220     1
+1514      1
+59254     1
+34516     1
+Name: count, Length: 1692, dtype: int64
+
+Value counts for column 'ab_000':
+ab_000
+na    1541
+0      345
+2       68
+4       24
+6       11
+8        6
+12       1
+36       1
+48       1
+14       1
+10       1
+Name: count, dtype: int64
+
+Value counts for column 'ac_000':
+ac_000
+na            505
+0             294
+2130706432     91
+2130706434     30
+4              20
+             ... 
+10324           1
+4634            1
+850             1
+1300            1
+2580            1
+Name: count, Length: 578, dtype: int64
+
+Value counts for column 'ad_000':
+ad_000
+na       883
+0         68
+6         22
+24        20
+2         19
+        ... 
+2010       1
+1212       1
+10322      1
+9038       1
+1538       1
+Name: count, Length: 489, dtype: int64
+
+Value counts for column 'ae_000':
+ae_000
+0       1581
+na       370
+2          9
+12         3
+4          2
+26         2
+138        1
+6          1
+32         1
+40         1
+126        1
+62         1
+132        1
+60         1
+206        1
+8          1
+204        1
+58         1
+56         1
+184        1
+1130       1
+116        1
+304        1
+212        1
+44         1
+662        1
+816        1
+1346       1
+1468       1
+468        1
+422        1
+152        1
+404        1
+214        1
+940        1
+38         1
+14         1
+5386       1
+936        1
+Name: count, dtype: int64
+
+Value counts for column 'af_000':
+af_000
+0        1577
+na        370
+2          10
+4           3
+6           2
+8           2
+248         2
+358         2
+12          1
+10          1
+302         1
+14          1
+620         1
+56          1
+48          1
+50          1
+198         1
+100         1
+180         1
+132         1
+164         1
+24          1
+510         1
+724         1
+1130        1
+160         1
+58          1
+2648        1
+5514        1
+1904        1
+676         1
+654         1
+1172        1
+238         1
+9040        1
+1424        1
+84          1
+38          1
+11284       1
+1260        1
+Name: count, dtype: int64
+
+Value counts for column 'ag_000':
+ag_000
+0        1890
+na         13
+16186       5
+16          3
+28          3
+         ... 
+884         1
+6732        1
+12162       1
+10254       1
+10          1
+Name: count, Length: 84, dtype: int64
+
+Value counts for column 'ag_001':
+ag_001
+0         1604
+na          13
+530916       5
+684          3
+184540       3
+          ... 
+140526       1
+2716         1
+1094         1
+3564         1
+898          1
+Name: count, Length: 357, dtype: int64
+
+Value counts for column 'ag_002':
+ag_002
+0          1405
+na           13
+2260600       5
+30366         4
+2322          3
+           ... 
+19942         1
+206262        1
+25212         1
+3846          1
+1766          1
+Name: count, Length: 537, dtype: int64
+
+Value counts for column 'ag_003':
+ag_003
+0          1031
+na           13
+5492920       5
+2365194       4
+160634        3
+           ... 
+1578360       1
+2708806       1
+102           1
+30058         1
+17770         1
+Name: count, Length: 881, dtype: int64
+
+Value counts for column 'ag_004':
+ag_004
+0           62
+na          13
+6           12
+4            8
+124          7
+            ..
+106758       1
+24418860     1
+1887046      1
+8418038      1
+6528         1
+Name: count, Length: 1695, dtype: int64
+
+Value counts for column 'ag_005':
+ag_005
+0           72
+na          13
+10461300     5
+9038940      3
+1352         3
+            ..
+4243934      1
+25574294     1
+2847094      1
+7568058      1
+7487766      1
+Name: count, Length: 1828, dtype: int64
+
+Value counts for column 'ag_006':
+ag_006
+0           62
+na          13
+3806918      5
+5677782      4
+3360968      3
+            ..
+34765612     1
+11292566     1
+1754912      1
+2106910      1
+464872       1
+Name: count, Length: 1840, dtype: int64
+
+Value counts for column 'ag_007':
+ag_007
+0           332
+na           13
+885154        5
+649912        4
+2864          4
+           ... 
+2354094       1
+372186        1
+19797220      1
+1280702       1
+134210        1
+Name: count, Length: 1572, dtype: int64
+
+Value counts for column 'ag_008':
+ag_008
+0         550
+na         13
+181168      5
+62394       4
+54078       3
+         ... 
+618642      1
+87684       1
+800092      1
+176         1
+85650       1
+Name: count, Length: 1342, dtype: int64
+
+Value counts for column 'ag_009':
+ag_009
+0        1174
+na         13
+2           6
+21030       5
+186         4
+         ... 
+4132        1
+2044        1
+18960       1
+1108        1
+10740       1
+Name: count, Length: 667, dtype: int64
+
+Value counts for column 'ah_000':
+ah_000
+na          47
+14818484     5
+0            5
+13882488     4
+21973330     3
+            ..
+22489798     1
+37786340     1
+14533518     1
+32269468     1
+15056458     1
+Name: count, Length: 1868, dtype: int64
+
+Value counts for column 'ai_000':
+ai_000
+0         1161
+na          48
+42680        5
+33356        4
+36094        3
+          ... 
+8168         1
+7542         1
+20446        1
+1162         1
+111496       1
+Name: count, Length: 712, dtype: int64
+
+Value counts for column 'aj_000':
+aj_000
+0        1284
+na         48
+48         16
+58         14
+56         14
+         ... 
+574         1
+606         1
+22454       1
+1412        1
+46346       1
+Name: count, Length: 328, dtype: int64
+
+Value counts for column 'ak_000':
+ak_000
+0          1365
+na          596
+598           9
+596           6
+1196          3
+9994          3
+350           2
+2840          1
+31692         1
+53478         1
+69236         1
+1946938       1
+98            1
+1613576       1
+1210968       1
+1796          1
+976           1
+5388          1
+2289762       1
+4204          1
+6538          1
+369438        1
+6586          1
+Name: count, dtype: int64
+
+Value counts for column 'al_000':
+al_000
+0          711
+na          50
+1517276      7
+4262312      5
+5106022      4
+          ... 
+20942        1
+17280        1
+2515106      1
+2201718      1
+2085488      1
+Name: count, Length: 1097, dtype: int64
+
+Value counts for column 'am_0':
+am_0
+0          705
+na          48
+2831858      7
+6402880      5
+8373140      4
+          ... 
+2408408      1
+3137888      1
+6914458      1
+766806       1
+16624        1
+Name: count, Length: 1111, dtype: int64
+
+Value counts for column 'an_000':
+an_000
+na          50
+16230962     7
+0            6
+36482040     3
+36466426     3
+            ..
+31585574     1
+68928142     1
+26863482     1
+59878236     1
+1388284      1
+Name: count, Length: 1880, dtype: int64
+
+Value counts for column 'ao_000':
+ao_000
+na          44
+13692914     7
+0            7
+31612946     3
+28210392     3
+            ..
+16437592     1
+53298278     1
+22413490     1
+52811048     1
+86570        1
+Name: count, Length: 1881, dtype: int64
+
+Value counts for column 'ap_000':
+ap_000
+na          50
+0            5
+13966202     3
+6904476      3
+21919394     3
+            ..
+38268732     1
+8285438      1
+22986682     1
+6401462      1
+7977630      1
+Name: count, Length: 1886, dtype: int64
+
+Value counts for column 'aq_000':
+aq_000
+na          44
+0            8
+3618134      7
+2827518      5
+5567628      4
+            ..
+12983246     1
+19208512     1
+4597334      1
+8524652      1
+2629218      1
+Name: count, Length: 1827, dtype: int64
+
+Value counts for column 'ar_000':
+ar_000
+0      1321
+na      412
+2        64
+4        36
+6        19
+12       15
+14       14
+8        14
+10       13
+32        7
+20        6
+26        5
+60        4
+40        4
+36        3
+22        3
+80        3
+34        3
+24        3
+18        3
+46        3
+28        3
+54        3
+66        3
+16        2
+42        2
+128       2
+38        2
+104       2
+52        2
+120       1
+114       1
+100       1
+30        1
+184       1
+64        1
+88        1
+62        1
+222       1
+178       1
+48        1
+72        1
+168       1
+190       1
+252       1
+140       1
+78        1
+44        1
+160       1
+58        1
+206       1
+50        1
+56        1
+106       1
+Name: count, dtype: int64
+
+Value counts for column 'as_000':
+as_000
+0          1946
+na           48
+320346        1
+357260        1
+693990        1
+1246190       1
+489122        1
+647060        1
+Name: count, dtype: int64
+
+Value counts for column 'at_000':
+at_000
+0          1562
+na           48
+756          12
+209502        3
+9237250       3
+           ... 
+772           1
+12288         1
+2075458       1
+298           1
+5390          1
+Name: count, Length: 344, dtype: int64
+
+Value counts for column 'au_000':
+au_000
+0          1925
+na           48
+249166        3
+6132          1
+1134798       1
+139982        1
+96986         1
+292312        1
+2698          1
+20738         1
+26918         1
+11112         1
+3784          1
+2068          1
+1094074       1
+26212         1
+588396        1
+219766        1
+1248          1
+804           1
+729144        1
+1299622       1
+748658        1
+97978         1
+2626676       1
+862024        1
+475950        1
+Name: count, dtype: int64
+
+Value counts for column 'av_000':
+av_000
+na       370
+0        356
+4         28
+2         19
+16        17
+        ... 
+12710      1
+5480       1
+6012       1
+4312       1
+1632       1
+Name: count, Length: 793, dtype: int64
+
+Value counts for column 'ax_000':
+ax_000
+na      370
+0       369
+22       21
+6        20
+2        19
+       ... 
+7084      1
+784       1
+1114      1
+1520      1
+1472      1
+Name: count, Length: 609, dtype: int64
+
+Value counts for column 'ay_000':
+ay_000
+0           1893
+na            14
+3886870        3
+2              2
+2724844        2
+            ... 
+1953250        1
+15526166       1
+7539242        1
+14258500       1
+30963874       1
+Name: count, Length: 80, dtype: int64
+
+Value counts for column 'ay_001':
+ay_001
+0           1880
+na            14
+187372         3
+818            2
+306110         2
+            ... 
+1585714        1
+729552         1
+6384396        1
+39585320       1
+11238752       1
+Name: count, Length: 92, dtype: int64
+
+Value counts for column 'ay_002':
+ay_002
+0           1878
+na            14
+49876          3
+33396          2
+1424956        2
+            ... 
+24045160       1
+5041612        1
+26057560       1
+73800          1
+4104516        1
+Name: count, Length: 98, dtype: int64
+
+Value counts for column 'ay_003':
+ay_003
+0          1864
+na           14
+1336838       3
+2922          2
+5776          2
+           ... 
+2270992       1
+9767096       1
+24728         1
+744976        1
+4058898       1
+Name: count, Length: 110, dtype: int64
+
+Value counts for column 'ay_004':
+ay_004
+0           1761
+na            14
+21368          3
+8862           2
+4852680        2
+            ... 
+12890732       1
+16080          1
+32368          1
+19688640       1
+398594         1
+Name: count, Length: 207, dtype: int64
+
+Value counts for column 'ay_005':
+ay_005
+0           1071
+na            14
+4064           4
+208            3
+85480          3
+            ... 
+4372158        1
+422786         1
+32982550       1
+981750         1
+78084          1
+Name: count, Length: 867, dtype: int64
+
+Value counts for column 'ay_006':
+ay_006
+0           552
+na           14
+302504        5
+8236          4
+2583178       4
+           ... 
+2584300       1
+12511056      1
+278036        1
+31576         1
+883802        1
+Name: count, Length: 1357, dtype: int64
+
+Value counts for column 'ay_007':
+ay_007
+0           181
+na           14
+10469990      5
+21807250      4
+978076        3
+           ... 
+1757192       1
+54667402      1
+3476          1
+18913096      1
+1622148       1
+Name: count, Length: 1721, dtype: int64
+
+Value counts for column 'ay_008':
+ay_008
+0           125
+na           14
+2             9
+21222262      5
+16797638      3
+           ... 
+30848         1
+42646         1
+358672        1
+1072576       1
+8740446       1
+Name: count, Length: 1762, dtype: int64
+
+Value counts for column 'ay_009':
+ay_009
+0         1772
+na          14
+2            8
+55132        5
+36           4
+          ... 
+40692        1
+21896        1
+2048         1
+128510       1
+120884       1
+Name: count, Length: 190, dtype: int64
+
+Value counts for column 'az_000':
+az_000
+0         57
+na        14
+68         7
+58         6
+1180       5
+          ..
+71116      1
+3542       1
+133386     1
+6836       1
+1582       1
+Name: count, Length: 1671, dtype: int64
+
+Value counts for column 'az_001':
+az_001
+0         61
+10        19
+20        16
+6         15
+na        14
+          ..
+156700     1
+95266      1
+3470       1
+88616      1
+3386       1
+Name: count, Length: 1472, dtype: int64
+
+Value counts for column 'az_002':
+az_002
+0         59
+32        18
+30        15
+na        14
+12        14
+          ..
+298408     1
+207088     1
+6844       1
+124550     1
+4182       1
+Name: count, Length: 1539, dtype: int64
+
+Value counts for column 'az_003':
+az_003
+0         58
+na        14
+16         9
+36         9
+30         9
+          ..
+570454     1
+319970     1
+18434      1
+191004     1
+5466       1
+Name: count, Length: 1681, dtype: int64
+
+Value counts for column 'az_004':
+az_004
+0           57
+na          14
+24           6
+17791796     5
+126          4
+            ..
+9893208      1
+19397316     1
+267322       1
+4649860      1
+1567686      1
+Name: count, Length: 1796, dtype: int64
+
+Value counts for column 'az_005':
+az_005
+0           58
+na          14
+4470306      5
+19614312     3
+29525642     3
+            ..
+42230172     1
+56206404     1
+9244186      1
+15748790     1
+1877300      1
+Name: count, Length: 1857, dtype: int64
+
+Value counts for column 'az_006':
+az_006
+0          300
+2           57
+4           56
+6           36
+8           27
+          ... 
+6453896      1
+9455650      1
+119034       1
+10562        1
+2161674      1
+Name: count, Length: 1074, dtype: int64
+
+Value counts for column 'az_007':
+az_007
+0         1187
+2          119
+4           62
+6           32
+10          25
+          ... 
+21624        1
+10390        1
+566438       1
+88           1
+2240         1
+Name: count, Length: 366, dtype: int64
+
+Value counts for column 'az_008':
+az_008
+0         1582
+2           94
+4           53
+6           32
+8           23
+          ... 
+16408        1
+36694        1
+569284       1
+33858        1
+44           1
+Name: count, Length: 119, dtype: int64
+
+Value counts for column 'az_009':
+az_009
+0        1785
+2          58
+4          26
+6          19
+na         14
+10          8
+14          7
+8           7
+12          4
+68          4
+48          3
+98          3
+32          3
+30          3
+2802        2
+22          2
+20          2
+90          2
+24          2
+18          2
+320         2
+148         2
+78          2
+358         2
+1522        2
+92          2
+26          2
+104         1
+1332        1
+18526       1
+2278        1
+134         1
+114         1
+1002        1
+444         1
+312         1
+188         1
+2696        1
+428         1
+70          1
+178         1
+88          1
+23076       1
+16          1
+222         1
+6008        1
+1384        1
+42          1
+46          1
+62          1
+184         1
+44          1
+28          1
+136         1
+36          1
+55516       1
+110         1
+Name: count, dtype: int64
+
+Value counts for column 'ba_000':
+ba_000
+0           57
+na          13
+14637038     5
+5528020      3
+12972192     3
+            ..
+33792874     1
+14317624     1
+3257522      1
+2385116      1
+14260        1
+Name: count, Length: 1861, dtype: int64
+
+Value counts for column 'ba_001':
+ba_001
+0           58
+na          13
+4119506      5
+8654494      3
+2385038      3
+            ..
+9454728      1
+30605648     1
+3002580      1
+7036594      1
+46986        1
+Name: count, Length: 1833, dtype: int64
+
+Value counts for column 'ba_002':
+ba_002
+0          59
+na         13
+110         5
+3121528     5
+58          5
+           ..
+140684      1
+231762      1
+2603758     1
+200         1
+310804      1
+Name: count, Length: 1791, dtype: int64
+
+Value counts for column 'ba_003':
+ba_003
+0          60
+na         13
+56          9
+2357204     5
+86          4
+           ..
+1903034     1
+6473176     1
+540500      1
+2852874     1
+2582514     1
+Name: count, Length: 1758, dtype: int64
+
+Value counts for column 'ba_004':
+ba_004
+0          60
+na         13
+42          9
+32          9
+48          6
+           ..
+1450276     1
+133808      1
+93352       1
+134322      1
+791370      1
+Name: count, Length: 1733, dtype: int64
+
+Value counts for column 'ba_005':
+ba_005
+0          61
+na         13
+46          6
+16          5
+104         5
+           ..
+1305956     1
+358         1
+138870      1
+61842       1
+26668       1
+Name: count, Length: 1716, dtype: int64
+
+Value counts for column 'ba_006':
+ba_006
+0          74
+na         13
+36          6
+76          6
+54          5
+           ..
+1530        1
+118128      1
+8814        1
+754         1
+3405724     1
+Name: count, Length: 1704, dtype: int64
+
+Value counts for column 'ba_007':
+ba_007
+0          166
+na          13
+4           10
+6            8
+52           7
+          ... 
+129642       1
+2984592      1
+391118       1
+477938       1
+1094094      1
+Name: count, Length: 1598, dtype: int64
+
+Value counts for column 'ba_008':
+ba_008
+0         517
+na         13
+14         13
+8          12
+6          11
+         ... 
+544         1
+14238       1
+304032      1
+90          1
+499154      1
+Name: count, Length: 1175, dtype: int64
+
+Value counts for column 'ba_009':
+ba_009
+0          893
+2           19
+na          13
+4           10
+10          10
+          ... 
+634          1
+29020        1
+5554570      1
+1390824      1
+307410       1
+Name: count, Length: 883, dtype: int64
+
+Value counts for column 'bb_000':
+bb_000
+na           47
+0             5
+24654966      3
+60609844      3
+51180276      3
+             ..
+56691482      1
+111371600     1
+35658040      1
+87129858      1
+6351222       1
+Name: count, Length: 1890, dtype: int64
+
+Value counts for column 'bc_000':
+bc_000
+na       412
+0        383
+4         39
+2         39
+6         18
+        ... 
+18578      1
+1002       1
+8576       1
+1380       1
+10748      1
+Name: count, Length: 686, dtype: int64
+
+Value counts for column 'bd_000':
+bd_000
+na       412
+0         87
+4         65
+2         61
+6         41
+        ... 
+22778      1
+7074       1
+39220      1
+1440       1
+17440      1
+Name: count, Length: 836, dtype: int64
+
+Value counts for column 'be_000':
+be_000
+na       370
+0        145
+2         45
+4         25
+6         10
+        ... 
+10230      1
+2618       1
+23036      1
+2498       1
+32738      1
+Name: count, Length: 939, dtype: int64
+
+Value counts for column 'bf_000':
+bf_000
+0        581
+na       370
+2        119
+4         74
+8         49
+        ... 
+6410       1
+3866       1
+2902       1
+362        1
+15336      1
+Name: count, Length: 340, dtype: int64
+
+Value counts for column 'bg_000':
+bg_000
+na          50
+14818484     5
+0            5
+13882488     4
+21973330     3
+            ..
+37786340     1
+14533518     1
+32269468     1
+15056458     1
+34715172     1
+Name: count, Length: 1865, dtype: int64
+
+Value counts for column 'bh_000':
+bh_000
+na         50
+363444      7
+0           6
+148         4
+188         4
+           ..
+1306358     1
+1633144     1
+497194      1
+1028418     1
+68332       1
+Name: count, Length: 1794, dtype: int64
+
+Value counts for column 'bi_000':
+bi_000
+na          44
+0            5
+12459926     3
+1550620      3
+2888736      3
+            ..
+8935982      1
+2497608      1
+9837170      1
+3374870      1
+9949992      1
+Name: count, Length: 1888, dtype: int64
+
+Value counts for column 'bj_000':
+bj_000
+na          44
+0            5
+5339498      4
+9919428      4
+11057722     3
+            ..
+20051318     1
+29312682     1
+5778216      1
+13065908     1
+342650       1
+Name: count, Length: 1855, dtype: int64
+
+Value counts for column 'bk_000':
+bk_000
+na         444
+1310700     37
+387860       7
+183800       5
+387100       4
+          ... 
+675180       1
+904720       1
+549760       1
+337460       1
+549080       1
+Name: count, Length: 1343, dtype: int64
+
+Value counts for column 'bl_000':
+bl_000
+na         521
+1310700     52
+0           19
+393520       7
+157100       5
+          ... 
+133320       1
+595360       1
+209040       1
+382060       1
+379780       1
+Name: count, Length: 1267, dtype: int64
+
+Value counts for column 'bm_000':
+bm_000
+na         743
+1310700     62
+0           25
+424600       8
+408720       5
+          ... 
+373460       1
+317320       1
+206320       1
+170340       1
+156840       1
+Name: count, Length: 1040, dtype: int64
+
+Value counts for column 'bn_000':
+bn_000
+na         815
+1310700     69
+0           28
+438120       7
+228940       5
+          ... 
+230160       1
+328000       1
+793820       1
+370860       1
+208080       1
+Name: count, Length: 960, dtype: int64
+
+Value counts for column 'bo_000':
+bo_000
+na         859
+1310700     75
+0           31
+403280       7
+362120       6
+          ... 
+516800       1
+483900       1
+122120       1
+187720       1
+152380       1
+Name: count, Length: 909, dtype: int64
+
+Value counts for column 'bp_000':
+bp_000
+na         889
+1310700     78
+0           36
+409560       7
+290320       5
+          ... 
+230860       1
+523640       1
+643700       1
+302780       1
+334180       1
+Name: count, Length: 882, dtype: int64
+
+Value counts for column 'bq_000':
+bq_000
+na         909
+1310700     81
+0           37
+349100       7
+326860       5
+          ... 
+194960       1
+285620       1
+350460       1
+705980       1
+254160       1
+Name: count, Length: 858, dtype: int64
+
+Value counts for column 'br_000':
+br_000
+na         925
+1310700     84
+0           40
+292360       7
+229360       5
+          ... 
+190900       1
+251600       1
+247320       1
+319260       1
+403940       1
+Name: count, Length: 833, dtype: int64
+
+Value counts for column 'bs_000':
+bs_000
+na        54
+0          5
+22880      4
+11580      3
+178560     3
+          ..
+40680      1
+446280     1
+26740      1
+296520     1
+215180     1
+Name: count, Length: 1754, dtype: int64
+
+Value counts for column 'bt_000':
+bt_000
+na            13
+181459.46      7
+515386         5
+491291.57      4
+463710.36      4
+              ..
+301486.4       1
+1299739.66     1
+261379.7       1
+1318664.46     1
+15220.65       1
+Name: count, Length: 1874, dtype: int64
+
+Value counts for column 'bu_000':
+bu_000
+na           49
+0             5
+24654966      3
+60609844      3
+51180276      3
+             ..
+111371600     1
+35658040      1
+87129858      1
+37485614      1
+106281876     1
+Name: count, Length: 1888, dtype: int64
+
+Value counts for column 'bv_000':
+bv_000
+na           49
+0             5
+24654966      3
+60609844      3
+51180276      3
+             ..
+111371600     1
+35658040      1
+87129858      1
+37485614      1
+106281876     1
+Name: count, Length: 1888, dtype: int64
+
+Value counts for column 'bx_000':
+bx_000
+na          78
+202          2
+214          2
+278          2
+25892        2
+            ..
+10111748     1
+23031628     1
+46673396     1
+54890932     1
+5061302      1
+Name: count, Length: 1914, dtype: int64
+
+Value counts for column 'by_000':
+by_000
+0         62
+24        14
+20        11
+19        11
+26        10
+          ..
+153852     1
+157197     1
+526089     1
+76994      1
+22252      1
+Name: count, Length: 1690, dtype: int64
+
+Value counts for column 'bz_000':
+bz_000
+na         412
+0          266
+18           7
+10           6
+6            5
+          ... 
+19914        1
+16982        1
+21948        1
+312          1
+1317728      1
+Name: count, Length: 1131, dtype: int64
+
+Value counts for column 'ca_000':
+ca_000
+na        592
+0           5
+3260        3
+57394       3
+9254        3
+         ... 
+77586       1
+110124      1
+27620       1
+86946       1
+84092       1
+Name: count, Length: 1344, dtype: int64
+
+Value counts for column 'cb_000':
+cb_000
+na         54
+0           5
+921340      3
+42860       3
+18760       3
+           ..
+44480       1
+548900      1
+1036660     1
+1164080     1
+549300      1
+Name: count, Length: 1832, dtype: int64
+
+Value counts for column 'cc_000':
+cc_000
+na          78
+0           51
+40074280     5
+10825770     3
+45254378     3
+            ..
+22180376     1
+53408272     1
+76297160     1
+9779642      1
+3981478      1
+Name: count, Length: 1802, dtype: int64
+
+Value counts for column 'cd_000':
+cd_000
+1209600    1949
+na           51
+Name: count, dtype: int64
+
+Value counts for column 'ce_000':
+ce_000
+0          523
+na         370
+817940       4
+286          3
+722          3
+          ... 
+220922       1
+1171880      1
+1995896      1
+594272       1
+162426       1
+Name: count, Length: 1036, dtype: int64
+
+Value counts for column 'cf_000':
+cf_000
+na      883
+0       591
+2       284
+4        52
+6        19
+       ... 
+1212      1
+140       1
+5868      1
+1186      1
+4678      1
+Name: count, Length: 129, dtype: int64
+
+Value counts for column 'cg_000':
+cg_000
+na      883
+0        86
+2        55
+4        45
+6        43
+       ... 
+1724      1
+1332      1
+494       1
+306       1
+1806      1
+Name: count, Length: 299, dtype: int64
+
+Value counts for column 'ch_000':
+ch_000
+0     1116
+na     883
+2        1
+Name: count, dtype: int64
+
+Value counts for column 'ci_000':
+ci_000
+na             12
+14244931.2      7
+25118376.96     5
+30794722.56     4
+25073510.4      4
+               ..
+33468450.24     1
+72032183.04     1
+17088685.44     1
+69608156.16     1
+1861111.68      1
+Name: count, Length: 1873, dtype: int64
+
+Value counts for column 'cj_000':
+cj_000
+0              1431
+na               12
+3037684.8         4
+14147238.72       4
+19.2              4
+               ... 
+687931.2          1
+189.12            1
+1397.76           1
+12426.24          1
+7244535.36        1
+Name: count, Length: 506, dtype: int64
+
+Value counts for column 'ck_000':
+ck_000
+na             12
+10022479.68     7
+14950951.68     5
+6278898.24      4
+13711552.32     4
+               ..
+19836734.4      1
+10409262.72     1
+5760296.64      1
+9673686.72      1
+94142.4         1
+Name: count, Length: 1894, dtype: int64
+
+Value counts for column 'cl_000':
+cl_000
+0         876
+na        396
+2          48
+4          30
+6          18
+         ... 
+17428       1
+130560      1
+43008       1
+1082        1
+1518        1
+Name: count, Length: 424, dtype: int64
+
+Value counts for column 'cm_000':
+cm_000
+0        642
+na       460
+12        22
+8         19
+16        18
+        ... 
+4240       1
+19138      1
+3182       1
+3156       1
+2104       1
+Name: count, Length: 605, dtype: int64
+
+Value counts for column 'cn_000':
+cn_000
+0          1494
+na           13
+1803010       5
+198           5
+20878         3
+           ... 
+4868          1
+8546          1
+1500          1
+7502          1
+27212         1
+Name: count, Length: 461, dtype: int64
+
+Value counts for column 'cn_001':
+cn_001
+0          1199
+na           13
+2             7
+2561900       5
+499614        4
+           ... 
+1604          1
+1274          1
+915448        1
+339232        1
+5494          1
+Name: count, Length: 720, dtype: int64
+
+Value counts for column 'cn_002':
+cn_002
+0           589
+na           13
+3544376       5
+4869922       4
+554846        3
+           ... 
+2168836       1
+1078          1
+12580976      1
+637966        1
+10016022      1
+Name: count, Length: 1294, dtype: int64
+
+Value counts for column 'cn_003':
+cn_003
+0           85
+na          13
+3400312      5
+16532952     4
+2657516      3
+            ..
+350452       1
+28644784     1
+1305850      1
+8578504      1
+30198        1
+Name: count, Length: 1802, dtype: int64
+
+Value counts for column 'cn_004':
+cn_004
+0           57
+na          13
+5132672      5
+19166092     3
+2699294      3
+            ..
+10688668     1
+23037492     1
+2634932      1
+5782132      1
+31210336     1
+Name: count, Length: 1851, dtype: int64
+
+Value counts for column 'cn_005':
+cn_005
+0           60
+na          13
+4640008      5
+998          3
+5460096      3
+            ..
+30923508     1
+9209456      1
+3075076      1
+1379064      1
+492          1
+Name: count, Length: 1829, dtype: int64
+
+Value counts for column 'cn_006':
+cn_006
+0           89
+na          13
+634          5
+12           5
+3736566      5
+            ..
+10161882     1
+627422       1
+1626354      1
+154412       1
+74574        1
+Name: count, Length: 1743, dtype: int64
+
+Value counts for column 'cn_007':
+cn_007
+0         205
+na         13
+14         10
+12          6
+8           6
+         ... 
+56594       1
+359912      1
+188074      1
+666572      1
+72654       1
+Name: count, Length: 1585, dtype: int64
+
+Value counts for column 'cn_008':
+cn_008
+0         315
+na         13
+8           7
+24          6
+2           6
+         ... 
+234422      1
+5522        1
+35226       1
+1430        1
+1388        1
+Name: count, Length: 1439, dtype: int64
+
+Value counts for column 'cn_009':
+cn_009
+0        591
+8         17
+12        17
+6         15
+22        14
+        ... 
+20814      1
+2400       1
+972        1
+808        1
+4258       1
+Name: count, Length: 802, dtype: int64
+
+Value counts for column 'co_000':
+co_000
+na      883
+0       255
+2        76
+4        45
+8        35
+       ... 
+934       1
+1140      1
+404       1
+1532      1
+4308      1
+Name: count, Length: 348, dtype: int64
+
+Value counts for column 'cp_000':
+cp_000
+na      412
+0       393
+4        88
+6        78
+8        58
+       ... 
+1132      1
+454       1
+266       1
+586       1
+6598      1
+Name: count, Length: 439, dtype: int64
+
+Value counts for column 'cq_000':
+cq_000
+na           49
+0             5
+24654966      3
+60609844      3
+51180276      3
+             ..
+111371600     1
+35658040      1
+87129858      1
+37485614      1
+106281876     1
+Name: count, Length: 1888, dtype: int64
+
+Value counts for column 'cr_000':
+cr_000
+na       1541
+0         450
+47500       1
+10924       1
+2960        1
+38078       1
+2632        1
+1724        1
+13328       1
+2360        1
+8310        1
+Name: count, dtype: int64
+
+Value counts for column 'cs_000':
+cs_000
+0        57
+na       13
+15458     5
+1178      4
+1048      4
+         ..
+46926     1
+92894     1
+16540     1
+26774     1
+48262     1
+Name: count, Length: 1701, dtype: int64
+
+Value counts for column 'cs_001':
+cs_001
+0        63
+16       23
+14       23
+12       20
+10       19
+         ..
+14390     1
+4764      1
+566       1
+7232      1
+21240     1
+Name: count, Length: 1196, dtype: int64
+
+Value counts for column 'cs_002':
+cs_002
+0           58
+16          17
+na          13
+20          13
+18          13
+            ..
+17071018     1
+8446216      1
+2236094      1
+2078588      1
+3286         1
+Name: count, Length: 1673, dtype: int64
+
+Value counts for column 'cs_003':
+cs_003
+0          59
+8          14
+na         13
+6          10
+12          9
+           ..
+6669706     1
+3267544     1
+546942      1
+1510796     1
+7042518     1
+Name: count, Length: 1774, dtype: int64
+
+Value counts for column 'cs_004':
+cs_004
+0           60
+na          13
+3104428      5
+623604       3
+8            3
+            ..
+10149634     1
+21790128     1
+2571000      1
+10714064     1
+744230       1
+Name: count, Length: 1827, dtype: int64
+
+Value counts for column 'cs_005':
+cs_005
+0           57
+na          13
+18963262     5
+15558534     3
+42639566     3
+            ..
+18100708     1
+42669484     1
+4407210      1
+6586358      1
+5757158      1
+Name: count, Length: 1852, dtype: int64
+
+Value counts for column 'cs_006':
+cs_006
+0          58
+na         13
+2277568     5
+555620      3
+2976136     3
+           ..
+1286860     1
+102484      1
+11492       1
+12402       1
+1045714     1
+Name: count, Length: 1843, dtype: int64
+
+Value counts for column 'cs_007':
+cs_007
+0         333
+na         13
+4           5
+2           5
+81008       5
+         ... 
+34446       1
+146954      1
+113266      1
+113084      1
+65188       1
+Name: count, Length: 1513, dtype: int64
+
+Value counts for column 'cs_008':
+cs_008
+0       709
+2       109
+4        55
+6        45
+8        37
+       ... 
+856       1
+760       1
+744       1
+1106      1
+580       1
+Name: count, Length: 282, dtype: int64
+
+Value counts for column 'cs_009':
+cs_009
+0       1888
+2         46
+4         14
+na        13
+6         11
+8          6
+10         5
+12         4
+36         2
+2074       2
+38         1
+194        1
+152        1
+26         1
+24         1
+808        1
+5156       1
+16         1
+14         1
+Name: count, dtype: int64
+
+Value counts for column 'ct_000':
+ct_000
+na      759
+0        73
+4        21
+6        20
+16       13
+       ... 
+1620      1
+6056      1
+4028      1
+3186      1
+3156      1
+Name: count, Length: 661, dtype: int64
+
+Value counts for column 'cu_000':
+cu_000
+na       759
+0         78
+6         14
+14        10
+2          9
+        ... 
+100        1
+3236       1
+17280      1
+13118      1
+36420      1
+Name: count, Length: 726, dtype: int64
+
+Value counts for column 'cv_000':
+cv_000
+na          759
+0            45
+10530290      5
+29793872      4
+24339910      3
+           ... 
+191272        1
+32562554      1
+2238878       1
+3806362       1
+56246792      1
+Name: count, Length: 1148, dtype: int64
+
+Value counts for column 'cx_000':
+cx_000
+na          759
+0            61
+60            7
+64            5
+40            5
+           ... 
+27562946      1
+1123998       1
+6819510       1
+1913886       1
+1469804       1
+Name: count, Length: 1047, dtype: int64
+
+Value counts for column 'cy_000':
+cy_000
+0        943
+na       759
+12        10
+22         8
+28         7
+        ... 
+192        1
+65696      1
+11592      1
+7130       1
+8132       1
+Name: count, Length: 176, dtype: int64
+
+Value counts for column 'cz_000':
+cz_000
+na        759
+0         221
+2          28
+6          16
+4          13
+         ... 
+24380       1
+372         1
+99042       1
+17938       1
+363400      1
+Name: count, Length: 758, dtype: int64
+
+Value counts for column 'da_000':
+da_000
+0       1224
+na       759
+178        2
+124        1
+140        1
+280        1
+358        1
+320        1
+1638       1
+126        1
+154        1
+164        1
+560        1
+198        1
+244        1
+118        1
+44         1
+190        1
+Name: count, dtype: int64
+
+Value counts for column 'db_000':
+db_000
+0       930
+na      759
+10       24
+18       21
+16       17
+22       16
+28       16
+30       13
+12       13
+24       11
+8        11
+20       10
+14       10
+32       10
+38       10
+26       10
+42        9
+46        9
+6         8
+48        8
+34        7
+36        7
+40        7
+44        6
+50        5
+56        4
+62        4
+52        4
+58        4
+82        3
+60        3
+68        3
+222       2
+54        2
+74        2
+80        2
+64        1
+4         1
+2         1
+100       1
+120       1
+112       1
+76        1
+114       1
+126       1
+158       1
+78        1
+66        1
+70        1
+84        1
+108       1
+106       1
+132       1
+146       1
+138       1
+1088      1
+Name: count, dtype: int64
+
+Value counts for column 'dc_000':
+dc_000
+na          759
+0            45
+10671632      5
+31309986      4
+25505462      3
+           ... 
+192004        1
+33632144      1
+2460408       1
+3961174       1
+7444938       1
+Name: count, Length: 1145, dtype: int64
+
+Value counts for column 'dd_000':
+dd_000
+na       370
+0         36
+46        11
+98         9
+38         9
+        ... 
+20708      1
+28502      1
+33994      1
+13832      1
+12088      1
+Name: count, Length: 1218, dtype: int64
+
+Value counts for column 'de_000':
+de_000
+na       412
+0         34
+50        17
+68        15
+64        15
+        ... 
+1280       1
+6088       1
+10774      1
+23056      1
+1362       1
+Name: count, Length: 706, dtype: int64
+
+Value counts for column 'df_000':
+df_000
+0          1347
+na          581
+10            4
+120290        2
+30            2
+           ... 
+1436510       1
+1402280       1
+609520        1
+2797800       1
+226150        1
+Name: count, Length: 67, dtype: int64
+
+Value counts for column 'dg_000':
+dg_000
+0          1336
+na          581
+4033502       2
+4176232       2
+6153796       2
+           ... 
+4177628       1
+2461084       1
+32            1
+5298370       1
+433430        1
+Name: count, Length: 82, dtype: int64
+
+Value counts for column 'dh_000':
+dh_000
+0        1183
+na        581
+10         11
+30          8
+60          8
+         ... 
+560         1
+220         1
+22880       1
+1570        1
+3780        1
+Name: count, Length: 160, dtype: int64
+
+Value counts for column 'di_000':
+di_000
+0         1098
+na         581
+2           11
+6            5
+10           5
+          ... 
+286          1
+430          1
+6546         1
+115748       1
+67978        1
+Name: count, Length: 275, dtype: int64
+
+Value counts for column 'dj_000':
+dj_000
+0         1412
+na         581
+100          1
+200          1
+60           1
+150          1
+202800       1
+280          1
+50           1
+Name: count, dtype: int64
+
+Value counts for column 'dk_000':
+dk_000
+0          1405
+na          581
+8             1
+2996          1
+752           1
+890990        1
+130394        1
+2230          1
+636           1
+10572         1
+712552        1
+24            1
+2             1
+144           1
+3440056       1
+4164980       1
+Name: count, dtype: int64
+
+Value counts for column 'dl_000':
+dl_000
+0         1417
+na         581
+2610         1
+423510       1
+Name: count, dtype: int64
+
+Value counts for column 'dm_000':
+dm_000
+0           1414
+na           581
+23680          1
+1398           1
+18             1
+214            1
+13240196       1
+Name: count, dtype: int64
+
+Value counts for column 'dn_000':
+dn_000
+na         49
+186         5
+172         5
+124         5
+0           5
+           ..
+1085030     1
+296598      1
+674686      1
+205248      1
+203730      1
+Name: count, Length: 1780, dtype: int64
+
+Value counts for column 'do_000':
+do_000
+na        412
+0         273
+20         11
+40          9
+148         6
+         ... 
+69800       1
+97074       1
+166492      1
+127372      1
+526126      1
+Name: count, Length: 1193, dtype: int64
+
+Value counts for column 'dp_000':
+dp_000
+na       412
+0        267
+2         18
+4         17
+12         6
+        ... 
+22600      1
+22722      1
+12194      1
+668        1
+704        1
+Name: count, Length: 1130, dtype: int64
+
+Value counts for column 'dq_000':
+dq_000
+0            1151
+na            412
+64553834        3
+148173992       3
+84652514        3
+             ... 
+454             1
+13930           1
+6172            1
+8115686         1
+544             1
+Name: count, Length: 413, dtype: int64
+
+Value counts for column 'dr_000':
+dr_000
+0           1149
+na           412
+11545366       3
+20957910       3
+14867234       3
+            ... 
+749340         1
+1125266        1
+344            1
+3166           1
+10086594       1
+Name: count, Length: 411, dtype: int64
+
+Value counts for column 'ds_000':
+ds_000
+na         412
+0           84
+44           6
+34           6
+48           5
+          ... 
+1784854      1
+376252       1
+1602         1
+833228       1
+67040        1
+Name: count, Length: 1361, dtype: int64
+
+Value counts for column 'dt_000':
+dt_000
+na        412
+0          80
+6          12
+14         11
+20         10
+         ... 
+273334      1
+72898       1
+352         1
+141220      1
+121746      1
+Name: count, Length: 1256, dtype: int64
+
+Value counts for column 'du_000':
+du_000
+na           412
+0             98
+40             7
+340            4
+120            4
+            ... 
+13300          1
+554500         1
+58233400       1
+266902600      1
+2410300        1
+Name: count, Length: 1351, dtype: int64
+
+Value counts for column 'dv_000':
+dv_000
+na          412
+0            97
+4             7
+12            5
+36            4
+           ... 
+74669330      1
+199060        1
+12575538      1
+3620          1
+384080        1
+Name: count, Length: 1364, dtype: int64
+
+Value counts for column 'dx_000':
+dx_000
+0           1040
+na           412
+2              6
+25219588       3
+51038178       3
+            ... 
+21984270       1
+17703060       1
+9434202        1
+36365200       1
+15546074       1
+Name: count, Length: 533, dtype: int64
+
+Value counts for column 'dy_000':
+dy_000
+0         959
+na        412
+8          22
+4          15
+12         13
+         ... 
+15646       1
+4034        1
+2236        1
+9450        1
+712866      1
+Name: count, Length: 458, dtype: int64
+
+Value counts for column 'dz_000':
+dz_000
+0       1573
+na       412
+8          4
+2          2
+14         1
+4          1
+178        1
+1414       1
+12         1
+6          1
+136        1
+10         1
+940        1
+Name: count, dtype: int64
+
+Value counts for column 'ea_000':
+ea_000
+0       1560
+na       412
+2          3
+4          3
+390        2
+8          2
+462        1
+10         1
+22         1
+40         1
+60         1
+30         1
+18         1
+26         1
+98         1
+38         1
+148        1
+1392       1
+562        1
+110        1
+122        1
+280        1
+696        1
+244        1
+Name: count, dtype: int64
+
+Value counts for column 'eb_000':
+eb_000
+na           581
+0            428
+4527940        4
+6316400        3
+49971140       3
+            ... 
+23317480       1
+25150900       1
+230462230      1
+4973620        1
+330703450      1
+Name: count, Length: 940, dtype: int64
+
+Value counts for column 'ec_00':
+ec_00
+na          486
+0            63
+0.4           8
+0.64          7
+0.62          5
+           ... 
+9538.56       1
+33688.58      1
+5702.26       1
+35670.38      1
+13484.96      1
+Name: count, Length: 1344, dtype: int64
+
+Value counts for column 'ed_000':
+ed_000
+na       396
+0        123
+60        11
+58         9
+28         9
+        ... 
+21026      1
+14030      1
+9106       1
+16540      1
+998        1
+Name: count, Length: 1070, dtype: int64
+
+Value counts for column 'ee_000':
+ee_000
+0           57
+na          14
+11950964     5
+2855222      3
+17744666     3
+            ..
+20817634     1
+26398090     1
+4731274      1
+2473802      1
+4002478      1
+Name: count, Length: 1858, dtype: int64
+
+Value counts for column 'ee_001':
+ee_001
+0           58
+na          14
+2061054      5
+3770490      3
+1374212      3
+            ..
+22173866     1
+10484444     1
+1391134      1
+2848560      1
+1253174      1
+Name: count, Length: 1842, dtype: int64
+
+Value counts for column 'ee_002':
+ee_002
+0          63
+na         14
+1407904     5
+42          5
+48          4
+           ..
+4906354     1
+5864930     1
+764110      1
+1501432     1
+326996      1
+Name: count, Length: 1785, dtype: int64
+
+Value counts for column 'ee_003':
+ee_003
+0          70
+na         14
+6           9
+10          9
+8           7
+           ..
+1581970     1
+2621030     1
+280318      1
+587182      1
+166532      1
+Name: count, Length: 1725, dtype: int64
+
+Value counts for column 'ee_004':
+ee_004
+0          74
+na         14
+28         10
+48          6
+14          6
+           ..
+2270448     1
+5509744     1
+569880      1
+1277140     1
+295972      1
+Name: count, Length: 1737, dtype: int64
+
+Value counts for column 'ee_005':
+ee_005
+0          91
+na         14
+14          7
+16          7
+10          6
+           ..
+873306      1
+7758420     1
+1488708     1
+3266630     1
+53522       1
+Name: count, Length: 1718, dtype: int64
+
+Value counts for column 'ee_006':
+ee_006
+0           118
+na           14
+26            6
+32            6
+12            6
+           ... 
+2451554       1
+804108        1
+390150        1
+10280724      1
+506126        1
+Name: count, Length: 1683, dtype: int64
+
+Value counts for column 'ee_007':
+ee_007
+0          175
+na          14
+2            9
+34           9
+6            8
+          ... 
+196030       1
+6994836      1
+42406        1
+2819216      1
+153488       1
+Name: count, Length: 1615, dtype: int64
+
+Value counts for column 'ee_008':
+ee_008
+0           353
+na           14
+4             8
+2             6
+72326         5
+           ... 
+212654        1
+109338        1
+44214         1
+53518         1
+13949742      1
+Name: count, Length: 1461, dtype: int64
+
+Value counts for column 'ee_009':
+ee_009
+0         1029
+na          14
+8           11
+22          10
+56          10
+          ... 
+44186        1
+57556        1
+147634       1
+914          1
+14904        1
+Name: count, Length: 699, dtype: int64
+
+Value counts for column 'ef_000':
+ef_000
+0      1574
+na      412
+2         5
+4         3
+20        2
+12        1
+26        1
+86        1
+362       1
+Name: count, dtype: int64
+
+Value counts for column 'eg_000':
+eg_000
+0      1567
+na      412
+2         6
+4         3
+6         2
+12        2
+56        2
+20        1
+8         1
+182       1
+80        1
+40        1
+606       1
+Name: count, dtype: int64
+
